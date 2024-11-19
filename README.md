@@ -1,2 +1,3 @@
 # Object-Detection
 An Object Detection &amp; Recognition Framework for Visually Impaired
+One of the top 10 disabilities in humans is vision impairment or blindness, and the majority of the world's visually challenged people live in India. We provide a unique framework in this study to help visually impaired people recognise and detect objects so they can travel autonomously and stay aware of their environment. In order to detect and classify objects, the paper uses the Yolo process.In next update, it recognises faces and banknotes. Yolo detector is trained using the coco dataset, which includes the addition of a new class to allow for the detection of cash. 
